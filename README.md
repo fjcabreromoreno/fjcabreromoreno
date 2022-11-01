@@ -32,6 +32,7 @@ Versatile Front-end Developer with 8+ years of experience designing, developing 
 
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="REDUX" src="[https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)"></a>
     <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
